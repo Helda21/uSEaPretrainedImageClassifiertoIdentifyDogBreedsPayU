@@ -4,6 +4,15 @@
 #
 # TODO 0: Add your information below for Programmer & Date Created.                                                                             
 # PROGRAMMER: Helio David Espinosa Contreras
+"""
+#HELP LINKS IN THE CODE REFERENCES CODE OF HONOR:
+#https://notebook.community/madhavajay/nd889/2_deep_learning/1_dog_breed_classifier/dog_app
+#https://github.com/udacity/AIPND-revision/tree/master
+#https://www.analyticsvidhya.com/blog/2022/03/dog-breed-classification-using-a-stacked-pre-trained-model/
+#https://github.com/codestin/pretrained_dog_classifier/tree/master
+#https://github.com/shamjam/Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/tree/master
+
+"""
 # DATE CREATED: 28/05/2023                                  
 # REVISED DATE: 28/05/2023 
 # PURPOSE: Classifies pet images using a pretrained CNN model, compares these
